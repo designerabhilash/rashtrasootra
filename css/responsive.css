@@ -111,4 +111,7 @@
     .copyright .policy-links ul li a {
         font-size: 12px;
     }
+    .navbar-site {
+        margin-top: 1rem;
+    }
 }

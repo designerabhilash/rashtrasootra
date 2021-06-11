@@ -98,9 +98,6 @@ body {
     margin: 0 auto;
     text-align: center;
 }
-.navbar-site {
-    margin-top: 1rem;
-}
 .navbar-site .navbar-toggler i {
     font-size: 24px;
     margin-top: 4px;
